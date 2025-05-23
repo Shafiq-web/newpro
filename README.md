@@ -1,0 +1,2 @@
+# newpro
+nebatech practicals
