@@ -1,2 +1,2 @@
 # newpro
-nebatech practicals
+shafiq practicals
